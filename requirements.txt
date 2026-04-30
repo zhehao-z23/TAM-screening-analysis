@@ -1,0 +1,7 @@
+biopython>=1.83
+logomaker>=0.8
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.0
+PyYAML>=6.0
+jupyter>=1.0

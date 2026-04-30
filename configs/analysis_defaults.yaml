@@ -1,0 +1,15 @@
+pam_len: 5
+five_seed: CTAGAGGATC
+three_seed: AGGGCGACAC
+epsilon: 1.0e-9
+global_min: 1.0e-3
+global_max: 2.0
+top_n: 20
+rules:
+  - sigma1.5
+  - sigma5
+  - fc0.15
+correction:
+  enabled: true
+  method: median_raw_fc
+  abundance_filter: none

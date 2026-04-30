@@ -1,0 +1,48 @@
+# Raw sequencing data and archives
+*.fq
+*.fastq
+*.fq.gz
+*.fastq.gz
+*.tar
+*.tar.gz
+*.zip
+*.rar
+
+# Generated count/results files
+*.p
+*.pickle
+*.pkl
+results/*
+!results/.gitkeep
+processed_data/*
+!processed_data/.gitkeep
+figures/*
+!figures/.gitkeep
+
+# Local data folders
+data/*
+!data/.gitkeep
+
+# Notebook execution/cache noise
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.cache/
+cache/
+
+# Local environments
+.env
+.venv/
+env/
+venv/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary downloads and logs
+*.log
+downloads/
+tmp/

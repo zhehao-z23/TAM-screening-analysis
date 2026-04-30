@@ -1,0 +1,4 @@
+sample,fastq
+N5,/absolute/path/to/N5_raw_1.fq.gz
+CasX,/absolute/path/to/CasX_raw_1.fq.gz
+118p2_200,/absolute/path/to/118p2_200_raw_1.fq.gz

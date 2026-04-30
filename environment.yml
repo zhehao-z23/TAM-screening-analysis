@@ -1,0 +1,12 @@
+name: tam-screening-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - biopython
+  - logomaker
+  - matplotlib
+  - numpy
+  - pandas
+  - pyyaml
+  - jupyter
