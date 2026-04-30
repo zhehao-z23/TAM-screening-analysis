@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Server Version Control"
+  short_description: "Server Git/GitHub setup without data leaks"
+  default_prompt: "Use $git-server-version-control to initialize a clean GitHub-backed project on this server."
